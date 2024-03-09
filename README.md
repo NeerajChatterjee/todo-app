@@ -48,6 +48,11 @@ cd server
 nodemon index.js
 ```
 Note - Make sure database and server running successfully by getting these messages in the terminal. 
+![Screenshot 2024-03-09 160203](https://github.com/NeerajChatterjee/todo-app/assets/73419394/07c19386-621e-401a-82c2-50c7a292093f)
 
 
 ## User Interface
+![image](https://github.com/NeerajChatterjee/todo-app/assets/73419394/7a2306f2-3d62-4ef0-a1fa-80a99b2058a3)
+![image](https://github.com/NeerajChatterjee/todo-app/assets/73419394/d8667a41-1c15-4fe9-9179-df2f9644ef0b)
+![image](https://github.com/NeerajChatterjee/todo-app/assets/73419394/f13b5b91-c09d-438f-82fc-7f3e1ed8bdba)
+
